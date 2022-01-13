@@ -1,0 +1,23 @@
+.x{
+    background-color: red;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+.y{
+    background-color: green;
+    padding-left: 200px;
+    margin: 10px 60px ;
+    border: 3px yellow dotted;
+
+}
+.z{
+    background-color: yellow;
+    margin-top: 0px;
+    padding-left: 400px;
+    border-style: groove;
+    border-color: red;
+    border-width: 2px;
+}
